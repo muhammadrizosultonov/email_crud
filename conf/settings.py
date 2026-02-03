@@ -155,8 +155,8 @@ EMAIL_BACKEND='django.core.mail.backends.console.EmailBackend'
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
-EMAIL_HOST_USER = 'nurmanovajasmin05@gmail.com'
-EMAIL_HOST_PASSWORD = 'mocu tmiw agnx zhbp'
-DEFAULT_FROM_EMAIL='nurmanovajasmin05@gmail.com'
+EMAIL_HOST_USER = 'muhammadrizosultonov33@gmail.com'
+EMAIL_HOST_PASSWORD = 'njzu cqum ylnw mrtj'
+DEFAULT_FROM_EMAIL='muhammadrizosultonov33@gmail.com'
 
 EXPIRATION_TIME_EMAIL=2
